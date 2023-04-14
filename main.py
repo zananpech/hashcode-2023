@@ -99,6 +99,7 @@ for group_id in groups:
 with open('output.csv', 'w', newline='') as output_file:
     # create the csv writer
     writer = csv.writer(output_file)
+    writer.writerow(["Name", "Destination", "Category", "Time Spent", "Group"])
     for row in output:
         writer.writerow(row)
         
