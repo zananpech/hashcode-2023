@@ -1,0 +1,503 @@
+Name,Category,Rating,Duration,Price
+Adventurous Beach,Architecture,2.5,10.5,14318
+Adventurous Canyon,Outdoors,4.4,3.0,6094
+Adventurous City,Arts,3.4,4.0,16770
+Adventurous Desert,Religious Sites,4.4,1.2,2624
+Adventurous Glacier,Nature,2.6,4.2,19870
+Adventurous Gorge,Nightlife,4.4,6.3,7401
+Adventurous Hill,Arts,4.5,8.4,3349
+Adventurous Island,Beaches,3.6,2.5,14480
+Adventurous Jungle,Entertainment,1.6,5.9,13138
+Adventurous Lake,Outdoors,3.3,9.8,6592
+Adventurous Meadow,Outdoors,3.3,1.9,1218
+Adventurous Mountain,Culture,1.0,3.10,904
+Adventurous Museum,Outdoors,2.0,1.7,9756
+Adventurous Park,Culture,1.6,3.10,9706
+Adventurous Peak,Food and Drink,4.0,10.3,17125
+Adventurous Plateau,Entertainment,2.9,10.1,14990
+Adventurous Rainforest,Adventure,3.6,4.1,11055
+Adventurous River,Food and Drink,3.6,8.8,10556
+Adventurous Sea,Nature,4.4,1.6,18837
+Adventurous Waterfall,Entertainment,2.5,6.4,9296
+Captivating Canyon,Food and Drink,3.9,9.1,526
+Captivating Desert,History,3.4,3.0,8345
+Captivating Forest,Entertainment,2.9,5.3,7593
+Captivating Glacier,Adventure,3.6,9.9,12175
+Captivating Gorge,Entertainment,4.6,3.7,12092
+Captivating Hill,Culture,2.2,9.9,4941
+Captivating Island,Adventure,4.3,10.2,8875
+Captivating Jungle,Nature,4.9,1.6,12755
+Captivating Lake,Adventure,3.4,6.8,17298
+Captivating Meadow,Entertainment,1.8,3.6,5308
+Captivating Mountain,Culture,3.6,1.10,3633
+Captivating Museum,Nature,3.0,5.7,15624
+Captivating Park,History,3.3,6.1,3023
+Captivating Peak,History,1.5,8.6,3666
+Captivating Plateau,Religious Sites,2.8,10.2,4853
+Captivating Rainforest,Outdoors,4.0,3.10,2665
+Captivating River,Adventure,2.4,1.4,12225
+Captivating Rock,Outdoors,3.4,4.1,5071
+Captivating Sea,Nightlife,3.4,6.2,17550
+Charming Canyon,Arts,2.8,8.0,2739
+Charming City,Shopping,2.5,8.7,15353
+Charming Forest,Shopping,1.0,9.0,16805
+Charming Gorge,Nightlife,2.9,5.0,9224
+Charming Hill,Religious Sites,2.3,2.8,852
+Charming Island,History,2.5,7.3,11291
+Charming Lake,Outdoors,2.2,8.5,9011
+Charming Meadow,Arts,1.7,4.2,3917
+Charming Mountain,Architecture,4.6,4.8,18511
+Charming Museum,Outdoors,3.9,10.6,9523
+Charming Ocean,Arts,4.0,2.9,1353
+Charming Park,Nature,2.9,5.4,4666
+Charming Peak,Food and Drink,4.6,1.7,15956
+Charming River,Nightlife,1.8,8.7,14491
+Charming Rock,Outdoors,4.1,3.1,7524
+Charming Valley,Adventure,4.8,4.4,2863
+Charming Volcano,History,3.0,10.5,7376
+Charming Waterfall,Culture,2.4,6.10,10220
+Dazzling Beach,Adventure,2.8,1.7,7445
+Dazzling Canyon,Beaches,4.6,1.3,988
+Dazzling City,Outdoors,1.1,9.1,13584
+Dazzling Desert,Adventure,4.7,9.8,15372
+Dazzling Forest,Beaches,3.2,4.8,19867
+Dazzling Glacier,Nightlife,4.9,3.4,16148
+Dazzling Gorge,Beaches,4.8,5.1,4101
+Dazzling Hill,Shopping,2.6,7.4,16187
+Dazzling Lake,Culture,2.5,4.4,1836
+Dazzling Meadow,Religious Sites,2.6,7.4,735
+Dazzling Mountain,Nightlife,2.2,7.5,17354
+Dazzling Museum,Shopping,1.4,1.1,13062
+Dazzling Ocean,Beaches,3.0,10.2,12061
+Dazzling Park,Food and Drink,2.4,3.5,10769
+Dazzling Plateau,Culture,4.1,10.5,17385
+Dazzling Rainforest,Religious Sites,4.5,5.1,8882
+Dazzling River,Outdoors,3.9,5.4,19571
+Dazzling Rock,Shopping,2.0,9.3,3276
+Dazzling Sea,Nature,4.6,5.2,9392
+Dazzling Valley,Food and Drink,1.1,1.4,11834
+Enchanting Beach,Entertainment,2.1,7.8,12649
+Enchanting Canyon,Food and Drink,3.1,10.2,1337
+Enchanting Forest,Adventure,2.0,6.3,14379
+Enchanting Glacier,History,2.6,2.2,14200
+Enchanting Gorge,History,3.7,4.5,14145
+Enchanting Hill,Culture,2.7,5.1,1649
+Enchanting Island,Entertainment,3.0,7.3,10970
+Enchanting Lake,Religious Sites,4.7,6.0,19615
+Enchanting Mountain,History,4.9,4.7,18913
+Enchanting Museum,Outdoors,4.7,8.2,6655
+Enchanting Ocean,Religious Sites,3.4,10.0,16954
+Enchanting Park,Outdoors,3.1,9.10,10579
+Enchanting Peak,Nightlife,4.3,9.5,15501
+Enchanting Plateau,Nightlife,2.6,4.3,15007
+Enchanting Rainforest,Entertainment,4.9,7.4,19554
+Enchanting River,Arts,1.8,6.3,13081
+Enchanting Rock,Nightlife,1.6,4.7,12296
+Enchanting Volcano,History,1.2,7.9,4714
+Enchanting Waterfall,Architecture,2.9,6.8,17738
+Exotic Beach,Religious Sites,3.4,4.2,15974
+Exotic Canyon,Nature,4.9,5.2,13656
+Exotic City,Outdoors,1.9,5.10,7004
+Exotic Desert,Nightlife,1.2,2.6,6020
+Exotic Forest,Nature,3.2,5.2,1283
+Exotic Gorge,Architecture,1.9,6.5,2411
+Exotic Hill,Shopping,1.7,3.9,18311
+Exotic Island,Architecture,1.1,3.8,15031
+Exotic Jungle,History,3.3,7.0,12214
+Exotic Meadow,Arts,2.2,9.0,1329
+Exotic Museum,Beaches,1.6,5.7,13929
+Exotic Ocean,Adventure,4.3,4.5,7156
+Exotic Park,Beaches,3.6,1.6,18510
+Exotic Peak,Culture,2.8,8.4,11116
+Exotic Plateau,Nightlife,3.3,10.6,4955
+Exotic Rainforest,Entertainment,2.4,6.4,1725
+Exotic River,Adventure,3.4,1.0,3266
+Exotic Rock,Nature,1.5,1.9,3693
+Exotic Sea,Arts,4.5,7.0,18318
+Exotic Valley,Shopping,1.7,9.3,16527
+Exotic Volcano,Entertainment,4.8,3.9,14160
+Fascinating Beach,Adventure,3.3,7.6,14430
+Fascinating Canyon,Culture,1.3,9.7,1890
+Fascinating City,Nature,3.3,2.5,7991
+Fascinating Desert,Culture,2.5,9.4,19208
+Fascinating Forest,Food and Drink,2.5,4.6,7354
+Fascinating Glacier,Nature,3.8,4.2,2847
+Fascinating Gorge,Adventure,3.2,3.1,17464
+Fascinating Meadow,Shopping,2.8,8.10,8010
+Fascinating Museum,Architecture,1.2,9.7,11935
+Fascinating Ocean,Food and Drink,4.8,10.3,10315
+Fascinating Park,Religious Sites,4.8,3.6,6841
+Fascinating Peak,Adventure,4.6,8.10,17986
+Fascinating Plateau,History,3.7,8.8,19902
+Fascinating Rainforest,Food and Drink,3.9,10.6,17164
+Fascinating River,Arts,2.9,5.9,5240
+Fascinating Rock,Beaches,3.6,3.4,5933
+Fascinating Valley,Food and Drink,4.5,8.9,9833
+Fascinating Volcano,Nature,1.5,5.7,6591
+Fascinating Waterfall,Outdoors,2.7,5.9,11336
+Glorious Beach,Architecture,1.2,1.1,7475
+Glorious Canyon,Architecture,1.8,1.7,5174
+Glorious City,Outdoors,1.1,1.2,6449
+Glorious Desert,Entertainment,3.7,6.0,9686
+Glorious Glacier,Shopping,4.1,8.4,8114
+Glorious Hill,Religious Sites,3.3,3.3,14333
+Glorious Island,Religious Sites,4.9,3.3,4491
+Glorious Jungle,Shopping,3.1,10.10,12374
+Glorious Lake,Adventure,2.8,7.9,16271
+Glorious Mountain,Religious Sites,2.3,8.3,13970
+Glorious Museum,Shopping,2.1,3.7,17046
+Glorious Ocean,Entertainment,4.8,4.0,18446
+Glorious Park,Outdoors,3.4,7.7,16949
+Glorious Peak,Culture,1.6,1.4,9571
+Glorious River,Architecture,3.5,6.7,3507
+Glorious Rock,Arts,1.7,8.2,8691
+Glorious Sea,Beaches,2.8,8.10,11324
+Glorious Valley,Culture,1.0,2.4,17683
+Glorious Volcano,Outdoors,4.7,10.9,17626
+Incredible Beach,Culture,1.3,1.2,13559
+Incredible Canyon,History,4.3,6.3,13398
+Incredible City,Culture,1.9,4.4,16003
+Incredible Desert,Arts,1.7,9.3,17419
+Incredible Forest,Arts,3.3,3.1,2693
+Incredible Glacier,Nature,1.5,6.7,885
+Incredible Gorge,Beaches,1.8,3.7,4707
+Incredible Hill,Shopping,1.9,5.3,670
+Incredible Island,Culture,4.9,3.10,17928
+Incredible Jungle,Architecture,4.5,9.2,8974
+Incredible Lake,Adventure,3.0,9.10,15610
+Incredible Mountain,Nightlife,2.1,2.2,3123
+Incredible Museum,Adventure,1.4,2.3,13767
+Incredible Park,Nature,1.2,9.0,10649
+Incredible Peak,Outdoors,1.9,9.9,4813
+Incredible Rainforest,Entertainment,4.5,4.5,7283
+Incredible River,Architecture,4.2,5.7,6410
+Incredible Rock,Adventure,3.2,2.7,14146
+Incredible Volcano,Religious Sites,3.1,5.1,12213
+Incredible Waterfall,Nightlife,3.7,2.9,7467
+Legendary Beach,Architecture,4.9,4.10,8921
+Legendary Canyon,Shopping,1.2,3.8,14974
+Legendary Desert,History,3.1,3.2,7332
+Legendary Forest,Nature,2.4,3.6,2486
+Legendary Glacier,Shopping,4.1,5.9,11038
+Legendary Gorge,Culture,4.1,6.0,4460
+Legendary Jungle,Food and Drink,4.6,3.7,10310
+Legendary Lake,Architecture,3.7,8.6,6781
+Legendary Meadow,Architecture,1.3,7.0,9740
+Legendary Mountain,Arts,2.1,5.1,15294
+Legendary Museum,Nightlife,2.5,4.6,10905
+Legendary Ocean,Beaches,4.8,6.6,18178
+Legendary Park,Adventure,3.5,8.8,6737
+Legendary Peak,Architecture,1.4,6.1,19244
+Legendary Plateau,Architecture,4.2,10.6,10428
+Legendary Rainforest,Nature,2.3,3.10,15652
+Legendary Rock,Entertainment,4.1,1.10,8007
+Legendary Sea,Religious Sites,4.0,10.10,11964
+Legendary Valley,Nature,3.5,9.10,10223
+Legendary Waterfall,Outdoors,2.5,2.1,8912
+Magnificent Beach,Architecture,2.9,4.8,12941
+Magnificent Canyon,Beaches,3.7,2.5,6571
+Magnificent City,Religious Sites,1.1,4.0,9614
+Magnificent Glacier,Architecture,1.7,9.4,10880
+Magnificent Hill,Architecture,2.6,6.5,7304
+Magnificent Island,Food and Drink,1.3,10.10,17527
+Magnificent Jungle,Outdoors,1.0,4.4,10893
+Magnificent Lake,Religious Sites,2.0,7.5,3426
+Magnificent Meadow,Nightlife,2.7,5.1,12069
+Magnificent Mountain,Religious Sites,3.3,7.1,16260
+Magnificent Museum,History,4.5,1.0,3086
+Magnificent Ocean,Culture,2.8,10.4,18891
+Magnificent Park,Food and Drink,4.1,4.3,2578
+Magnificent Peak,Religious Sites,1.3,1.5,18976
+Magnificent Plateau,Nightlife,3.4,8.3,13315
+Magnificent Rainforest,Beaches,4.7,9.1,8159
+Magnificent River,Shopping,4.2,8.5,1057
+Magnificent Rock,Beaches,1.5,10.2,10585
+Magnificent Sea,Outdoors,4.8,7.3,2982
+Magnificent Valley,Outdoors,3.8,4.6,16505
+Majestic Beach,Shopping,4.2,1.5,3575
+Majestic Canyon,Architecture,4.6,2.6,7388
+Majestic City,Nature,3.8,10.4,7064
+Majestic Forest,Food and Drink,3.0,7.3,13245
+Majestic Island,Architecture,1.0,8.5,7697
+Majestic Jungle,Entertainment,1.4,2.7,1726
+Majestic Lake,Outdoors,4.0,10.7,14724
+Majestic Meadow,Culture,1.7,6.6,12647
+Majestic Mountain,Arts,1.2,7.2,15747
+Majestic Museum,Food and Drink,2.6,2.1,9630
+Majestic Ocean,Arts,3.6,10.8,10102
+Majestic Park,History,4.3,7.8,16126
+Majestic Peak,Adventure,1.2,3.0,9310
+Majestic Plateau,Beaches,1.2,10.0,15728
+Majestic Rainforest,Nightlife,2.6,2.3,6349
+Majestic River,Religious Sites,4.0,8.1,5034
+Majestic Sea,Shopping,2.8,10.8,6982
+Majestic Valley,Arts,2.9,3.10,8934
+Majestic Waterfall,Beaches,4.2,10.10,18845
+Mysterious Beach,Shopping,4.3,1.7,19788
+Mysterious Canyon,Adventure,4.0,5.5,19196
+Mysterious City,Arts,4.5,9.8,17566
+Mysterious Desert,Food and Drink,4.1,4.4,6137
+Mysterious Forest,Entertainment,3.8,1.9,3053
+Mysterious Glacier,Nightlife,1.6,6.8,980
+Mysterious Gorge,Adventure,4.0,1.3,2008
+Mysterious Hill,Culture,1.5,3.1,11818
+Mysterious Island,Religious Sites,1.5,9.0,12003
+Mysterious Jungle,History,4.6,4.7,11626
+Mysterious Lake,Culture,4.7,8.8,18951
+Mysterious Meadow,Arts,3.8,4.8,10584
+Mysterious Mountain,Nature,2.9,2.7,15778
+Mysterious Museum,Culture,2.1,9.10,2653
+Mysterious Ocean,Food and Drink,3.6,2.4,17357
+Mysterious Peak,Entertainment,4.4,5.8,14358
+Mysterious Plateau,Food and Drink,2.7,2.3,17762
+Mysterious Rainforest,Food and Drink,4.8,2.8,682
+Mysterious River,Shopping,4.0,3.4,2574
+Mysterious Rock,Religious Sites,4.5,4.2,19051
+Mysterious Sea,Beaches,1.6,1.5,9983
+Mysterious Valley,Religious Sites,3.0,4.6,19512
+Mysterious Volcano,Outdoors,1.2,10.7,5746
+Mysterious Waterfall,Architecture,3.9,1.1,14305
+Peaceful Beach,Entertainment,4.8,1.1,2739
+Peaceful Canyon,Outdoors,1.7,10.8,6680
+Peaceful City,Shopping,4.6,7.6,15316
+Peaceful Desert,Arts,1.7,6.8,3421
+Peaceful Forest,Arts,2.9,9.4,19005
+Peaceful Glacier,History,3.7,9.3,11277
+Peaceful Gorge,Architecture,2.1,9.1,7664
+Peaceful Hill,Adventure,2.7,3.5,3850
+Peaceful Island,Entertainment,2.3,3.8,8632
+Peaceful Jungle,Architecture,2.3,4.3,7145
+Peaceful Lake,Shopping,3.3,8.9,10609
+Peaceful Meadow,Culture,4.2,3.2,934
+Peaceful Mountain,Outdoors,2.2,3.0,1078
+Peaceful Museum,Nightlife,3.4,2.9,19200
+Peaceful Ocean,Beaches,2.5,2.4,834
+Peaceful Park,Beaches,2.1,7.4,17946
+Peaceful Peak,Religious Sites,4.4,9.5,9452
+Peaceful Plateau,Culture,2.0,6.10,12090
+Peaceful Rainforest,Religious Sites,1.9,4.0,9042
+Peaceful River,Religious Sites,4.2,3.5,16789
+Peaceful Rock,Nightlife,3.6,6.10,4909
+Peaceful Volcano,Beaches,1.0,2.7,14046
+Peaceful Waterfall,Entertainment,1.1,1.3,4186
+Picturesque Beach,Beaches,3.4,7.10,9114
+Picturesque Desert,Entertainment,3.0,8.4,14603
+Picturesque Gorge,Entertainment,1.3,9.4,14376
+Picturesque Hill,Shopping,1.7,8.0,3103
+Picturesque Jungle,Entertainment,3.8,7.3,16662
+Picturesque Lake,Outdoors,2.4,2.9,9932
+Picturesque Meadow,Culture,3.0,7.4,19585
+Picturesque Museum,Nature,2.5,10.0,12250
+Picturesque Ocean,Nightlife,4.4,8.1,18524
+Picturesque Park,Shopping,4.0,10.5,11806
+Picturesque Peak,Entertainment,1.0,8.0,16892
+Picturesque Plateau,Shopping,1.6,1.0,9943
+Picturesque Rainforest,History,2.2,1.3,8142
+Picturesque River,Outdoors,4.8,5.6,3941
+Picturesque Rock,Beaches,3.6,2.9,11429
+Picturesque Sea,Culture,4.2,4.9,11996
+Picturesque Valley,Arts,1.5,9.9,17092
+Picturesque Volcano,Shopping,1.2,8.1,9439
+Picturesque Waterfall,Architecture,1.1,3.4,12743
+Radiant Canyon,Adventure,4.4,2.4,8894
+Radiant City,Adventure,2.8,2.3,8973
+Radiant Desert,Shopping,4.6,9.9,9750
+Radiant Forest,Nightlife,3.6,5.3,8065
+Radiant Glacier,History,1.7,1.5,1684
+Radiant Gorge,Adventure,2.9,5.5,9507
+Radiant Jungle,Entertainment,3.4,9.9,17437
+Radiant Lake,History,1.7,2.1,11701
+Radiant Meadow,History,4.7,1.9,4899
+Radiant Mountain,Architecture,1.3,2.10,5188
+Radiant Museum,Shopping,4.7,1.4,17629
+Radiant Ocean,Culture,4.2,8.6,10301
+Radiant Park,Entertainment,1.0,6.6,13330
+Radiant Peak,Architecture,4.4,6.6,7943
+Radiant Rainforest,Food and Drink,3.5,7.4,4704
+Radiant River,Architecture,1.7,3.5,18223
+Radiant Rock,Arts,1.4,4.2,7015
+Radiant Sea,Outdoors,3.9,10.3,1242
+Radiant Valley,Food and Drink,1.1,7.0,872
+Radiant Waterfall,Religious Sites,2.4,2.9,5144
+Regal Beach,Nature,3.8,8.6,14913
+Regal Canyon,Architecture,4.5,4.10,13996
+Regal City,Nightlife,4.3,1.0,4609
+Regal Desert,Architecture,1.4,7.5,19558
+Regal Forest,Beaches,2.0,8.10,7636
+Regal Glacier,History,1.9,4.4,14289
+Regal Hill,History,2.5,7.6,12141
+Regal Island,Nature,3.4,7.8,2777
+Regal Lake,Entertainment,4.2,9.10,10849
+Regal Meadow,Outdoors,3.8,5.6,16369
+Regal Museum,Beaches,3.1,7.0,14133
+Regal Peak,History,4.7,8.2,17867
+Regal Plateau,Arts,1.4,7.8,4761
+Regal Rainforest,Beaches,3.5,2.9,10524
+Regal River,History,2.9,4.2,9712
+Regal Valley,Religious Sites,3.6,4.6,1476
+Regal Volcano,Beaches,2.5,8.7,7109
+Regal Waterfall,Outdoors,4.5,3.9,1709
+Relaxing Beach,Nature,4.5,1.7,1208
+Relaxing Canyon,Beaches,2.6,1.10,8679
+Relaxing City,Adventure,2.3,3.4,13920
+Relaxing Forest,History,3.9,2.4,16686
+Relaxing Glacier,Outdoors,4.1,8.7,16520
+Relaxing Gorge,Shopping,2.9,8.10,14378
+Relaxing Hill,Architecture,3.2,6.2,19141
+Relaxing Island,Beaches,4.6,8.7,16327
+Relaxing Jungle,Adventure,1.3,6.0,16867
+Relaxing Lake,Architecture,4.3,10.10,16296
+Relaxing Meadow,Architecture,1.2,1.2,5940
+Relaxing Mountain,Culture,2.5,9.0,17300
+Relaxing Museum,Adventure,4.6,6.8,12039
+Relaxing Ocean,Arts,4.1,1.6,17805
+Relaxing Park,Beaches,1.5,1.10,1143
+Relaxing Peak,Culture,4.5,10.3,11172
+Relaxing Rainforest,Arts,2.6,5.9,17444
+Relaxing River,Adventure,2.9,5.4,5776
+Relaxing Rock,Food and Drink,4.6,5.3,19478
+Relaxing Sea,Culture,3.8,4.7,6368
+Relaxing Valley,Food and Drink,2.7,2.0,14336
+Serene Beach,Architecture,4.3,10.2,12435
+Serene City,Nightlife,1.7,7.2,5300
+Serene Desert,Architecture,1.6,9.10,10957
+Serene Forest,Food and Drink,4.0,1.10,602
+Serene Glacier,Adventure,4.4,3.2,14720
+Serene Hill,Adventure,1.6,6.5,6299
+Serene Island,Food and Drink,3.6,5.2,5181
+Serene Jungle,Arts,1.7,5.8,17783
+Serene Lake,Religious Sites,2.2,10.8,6011
+Serene Meadow,Arts,2.8,8.4,5851
+Serene Mountain,Food and Drink,1.9,10.4,19864
+Serene Ocean,History,2.6,3.1,17087
+Serene Rainforest,Shopping,3.7,4.10,3382
+Serene River,History,1.8,6.7,15868
+Serene Rock,Religious Sites,2.7,5.8,9561
+Serene Sea,History,2.5,7.8,16802
+Serene Waterfall,History,2.1,6.3,10302
+Spectacular Beach,Culture,2.6,7.2,15118
+Spectacular Canyon,Nature,4.1,3.0,13094
+Spectacular Desert,Culture,3.5,10.2,12217
+Spectacular Forest,Entertainment,3.7,8.6,17466
+Spectacular Glacier,Shopping,2.8,3.1,9576
+Spectacular Gorge,Architecture,3.6,4.7,16134
+Spectacular Hill,Food and Drink,1.5,8.4,2568
+Spectacular Island,Nightlife,2.0,6.6,7532
+Spectacular Jungle,Food and Drink,1.6,3.7,4100
+Spectacular Lake,Nightlife,3.6,3.0,1185
+Spectacular Meadow,History,4.8,5.7,2445
+Spectacular Mountain,Religious Sites,3.4,5.1,10988
+Spectacular Museum,Arts,3.3,10.4,15300
+Spectacular Ocean,Outdoors,4.6,2.5,4411
+Spectacular Plateau,Arts,4.1,10.0,15063
+Spectacular River,Arts,3.7,5.2,16505
+Spectacular Rock,Culture,1.3,1.4,6058
+Spectacular Sea,Shopping,2.9,6.10,12182
+Spectacular Valley,History,3.1,9.9,4327
+Spectacular Volcano,Food and Drink,1.9,4.1,11132
+Spectacular Waterfall,Entertainment,2.6,3.10,7447
+Stunning Beach,Religious Sites,2.2,6.5,15332
+Stunning Canyon,Entertainment,3.2,5.3,17003
+Stunning City,History,1.9,9.2,4469
+Stunning Desert,Architecture,3.6,5.7,2989
+Stunning Forest,Outdoors,2.7,8.4,5611
+Stunning Glacier,Religious Sites,1.5,4.7,1280
+Stunning Gorge,Architecture,3.2,10.7,12147
+Stunning Hill,History,3.9,4.8,899
+Stunning Island,Entertainment,1.3,6.9,1803
+Stunning Jungle,Architecture,1.9,1.6,17026
+Stunning Lake,Architecture,3.1,6.9,17612
+Stunning Meadow,Adventure,1.7,9.6,16456
+Stunning Mountain,Food and Drink,1.8,1.9,10827
+Stunning Museum,Food and Drink,3.7,9.5,4613
+Stunning Park,Adventure,1.9,5.3,11918
+Stunning Plateau,Adventure,2.3,9.0,11828
+Stunning Rainforest,History,4.3,4.1,19064
+Stunning River,Entertainment,3.7,5.3,3540
+Stunning Sea,Food and Drink,4.9,8.5,11482
+Stunning Valley,Nightlife,3.3,8.10,12326
+Stunning Volcano,Shopping,1.9,10.2,6054
+Stunning Waterfall,Nature,2.4,8.8,5464
+Sunny Beach,Shopping,2.4,9.10,1343
+Sunny Canyon,Religious Sites,1.3,9.4,19631
+Sunny City,Shopping,4.4,2.10,2475
+Sunny Desert,Outdoors,3.8,5.1,12695
+Sunny Forest,Beaches,4.9,2.0,11230
+Sunny Gorge,Shopping,1.3,10.7,6398
+Sunny Hill,Shopping,1.6,4.3,11565
+Sunny Island,Arts,4.6,10.8,8287
+Sunny Jungle,Adventure,3.5,7.2,13375
+Sunny Meadow,Food and Drink,4.5,4.2,5353
+Sunny Mountain,Religious Sites,2.4,3.3,17010
+Sunny Museum,Nature,1.1,6.7,4083
+Sunny Park,Religious Sites,4.9,10.1,6194
+Sunny Peak,Adventure,2.9,8.4,3119
+Sunny Rainforest,Nightlife,1.6,8.6,9897
+Sunny Sea,Outdoors,1.5,7.1,7070
+Sunny Valley,Religious Sites,2.9,5.4,4163
+Sunny Volcano,Nature,3.2,6.6,8595
+Sunny Waterfall,Religious Sites,4.5,10.9,6294
+Thrilling Beach,Arts,1.4,6.2,12516
+Thrilling Canyon,Culture,2.3,7.5,8211
+Thrilling City,Nature,1.2,2.4,8681
+Thrilling Desert,Food and Drink,4.2,8.8,2209
+Thrilling Forest,History,1.6,3.10,6766
+Thrilling Glacier,Food and Drink,3.8,3.1,11351
+Thrilling Gorge,Outdoors,2.7,3.6,11411
+Thrilling Hill,Nature,1.9,9.3,10244
+Thrilling Island,Food and Drink,2.4,9.3,13474
+Thrilling Jungle,Religious Sites,3.2,4.6,5979
+Thrilling Lake,Beaches,1.4,1.0,9227
+Thrilling Meadow,History,3.2,3.3,11430
+Thrilling Mountain,Nature,2.7,10.7,19403
+Thrilling Museum,Nature,2.3,5.3,13938
+Thrilling Park,Shopping,2.5,6.5,18468
+Thrilling Peak,Religious Sites,4.9,2.0,12749
+Thrilling Plateau,Culture,1.6,3.3,15306
+Thrilling River,Architecture,3.7,10.6,17634
+Thrilling Rock,Adventure,1.3,5.5,5251
+Thrilling Valley,Religious Sites,3.0,1.9,10406
+Thrilling Volcano,Shopping,4.4,1.0,18785
+Thrilling Waterfall,Nature,1.9,6.2,15480
+Tranquil Beach,Entertainment,3.8,9.5,1546
+Tranquil Canyon,Nature,4.5,2.4,9095
+Tranquil City,Beaches,3.4,1.0,6491
+Tranquil Desert,Food and Drink,4.1,8.4,6160
+Tranquil Forest,Beaches,3.7,3.5,17611
+Tranquil Gorge,Nightlife,4.3,7.9,16910
+Tranquil Hill,Entertainment,4.5,9.4,19908
+Tranquil Island,Nature,1.2,10.1,14065
+Tranquil Jungle,Arts,3.5,10.8,15906
+Tranquil Lake,Religious Sites,2.1,8.0,6572
+Tranquil Meadow,Nightlife,1.1,4.9,10077
+Tranquil Mountain,Food and Drink,2.7,7.6,18318
+Tranquil Museum,Religious Sites,4.5,2.0,6437
+Tranquil Park,Entertainment,3.8,3.4,18016
+Tranquil Peak,Nature,3.2,8.8,13875
+Tranquil Plateau,Architecture,2.4,1.3,6254
+Tranquil Rainforest,Architecture,4.7,3.10,9194
+Tranquil River,History,4.3,7.10,12663
+Tranquil Rock,Adventure,2.7,1.10,17890
+Tranquil Sea,Shopping,3.0,10.3,7725
+Tranquil Volcano,Culture,2.9,5.2,17267
+Tranquil Waterfall,Adventure,1.7,5.0,4073
+Unforgettable Beach,Food and Drink,2.5,8.1,5058
+Unforgettable Canyon,Culture,4.0,7.3,4812
+Unforgettable Desert,Religious Sites,3.4,8.5,1357
+Unforgettable Glacier,Religious Sites,1.4,9.8,15971
+Unforgettable Gorge,History,3.8,9.4,6855
+Unforgettable Hill,Nature,1.4,3.3,2653
+Unforgettable Island,Culture,3.2,5.9,11351
+Unforgettable Jungle,Arts,3.3,8.4,9124
+Unforgettable Lake,History,3.6,1.6,11429
+Unforgettable Meadow,Food and Drink,4.0,3.7,6589
+Unforgettable Mountain,Food and Drink,3.6,7.2,13718
+Unforgettable Museum,Adventure,2.5,2.9,6631
+Unforgettable Park,Arts,4.5,6.5,13434
+Unforgettable Rainforest,Adventure,2.2,8.6,9615
+Unforgettable River,Entertainment,1.1,3.0,7198
+Unforgettable Rock,Architecture,2.6,8.2,827
+Unforgettable Sea,History,1.5,7.0,15849
+Unforgettable Valley,Arts,1.6,10.0,11262
+Unforgettable Volcano,Nature,1.2,2.1,13337
+Unforgettable Waterfall,History,3.0,10.1,4236
